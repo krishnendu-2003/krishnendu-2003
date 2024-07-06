@@ -27,7 +27,7 @@ I'm Krishnendu Samanta !
 
 ### 📈 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnu-baruah&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnendu-2003&show_icons=true&theme=radical)
 
 
 ### 🔗 Connect with me:
