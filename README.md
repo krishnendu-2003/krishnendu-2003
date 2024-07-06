@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**krishnendu-2003/krishnendu-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Krishnendu Samanta !
 
-Here are some ideas to get you started:
+- 🎓 Computer Science student from Sister Nivedita University
+- 🌱 Learning AI&ML,React JS,IOT,Solidity,Go,Docker
+- 🛠️ Proficient in Mobile Application Development
+- 📫 How to reach me: jsbaruah1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+
+### 📈 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnu-baruah&show_icons=true&theme=radical)
+
+
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/krishnendu-samanta-25302a238/))
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)]([https://twitter.com/yourtwitter](https://twitter.com/Krishne34262077))
