@@ -27,6 +27,8 @@ I'm Krishnendu Samanta !
 
 ![krishnendu-2003's Stats](https://github-readme-stats.vercel.app/api?username=krishnendu-2003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![krishnendu-2003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnendu-2003&theme=vue-dark&hide_border=true)
+
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/krishnendu-samanta-25302a238/))
