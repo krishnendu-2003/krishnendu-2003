@@ -4,7 +4,7 @@ I'm Krishnendu Samanta !
 
 - 🎓 Computer Science student from Sister Nivedita University
 - 🌱 Learning AI&ML,React JS,IOT,Solidity,Go,Docker
-- 🛠️ Proficient in Mobile Application Development
+- 🛠️ Proficient in Web Application Development
 - 📫 How to reach me: skrishnendu115@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fun
