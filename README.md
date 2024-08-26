@@ -22,6 +22,7 @@ I'm Krishnendu Samanta !
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📈 GitHub Stats:
 
