@@ -48,4 +48,5 @@ I'm Krishnendu Samanta !
 )](https://www.linkedin.com/in/krishnendu-samanta-25302a238/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 )](https://twitter.com/Krishne34262077)
-
+[![Biolink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white
+)](https://bio.link/krishnendu_2003)
