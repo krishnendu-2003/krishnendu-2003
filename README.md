@@ -44,7 +44,8 @@ I'm Krishnendu Samanta !
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/krishnendu-samanta-25302a238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/krishnendu-samanta-25302a238/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 )](https://twitter.com/Krishne34262077)
 
